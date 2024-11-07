@@ -1,0 +1,20 @@
+{
+  "name": "codebook_backend",
+  "version": "1.0.0",
+  "description": "backend json server for Ecommerce site",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "json-server": "^1.0.0-beta.3",
+    "json-server-auth": "^2.1.0"
+  }
+}
